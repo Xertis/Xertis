@@ -6,7 +6,7 @@
   </div>
 
   <div style="display: flex; width: 100%; justify-content: center; margin-top: -5px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xertis&theme=algolia" width="30.35%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xertis&theme=algolia" width="30.31%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xertis&theme=algolia" width="30.32%" />
   </div>
 
