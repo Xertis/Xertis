@@ -10,6 +10,4 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xertis&theme=algolia" width="30.32%" />
   </div>
 
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xertis/Xertis/refs/heads/output/github-contribution-grid-snake.svg" />
-
 </div>
